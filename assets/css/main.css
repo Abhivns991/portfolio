@@ -1811,6 +1811,7 @@ screen and (max-height: 300px) {
 
 .popup_modal_img img {
     height: 100%;
+    width: 100%;
     -o-object-fit: cover;
     object-fit: cover;
 }
